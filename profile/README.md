@@ -20,7 +20,7 @@ their interest in each other.
 | [Andrey Alexeev](https://github.com/Azaki-san)                     | Backend dev.                | API              |
 | [Nikolai Kuzmin](https://github.com/orgs/randorm/people/Nikoali01) | Backend dev.                | API              |
 | [Alyona Maksimova](https://github.com/maksalena)                   | Frontend dev.               | Web              |
-| [Butakov Georgii](https://github.com/MazZz3R)                      | _DevOps_                    | Web, Bot, API    |
+| [Georgii Butakov](https://github.com/MazZz3R)                      | _DevOps_                    | Web, Bot, API    |
 
 ## Repositories
 
