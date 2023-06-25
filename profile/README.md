@@ -30,7 +30,7 @@ their interest in each other.
 | [randorm/dotcom](https://github.com/randorm/dotcom) | Randorm's web part.    |
 | [randorm/design](https://github.com/randorm/design) | Randorm's design code. |
 
-## Contributing
+## Contribution
 
 > We welcome contributions to the Randorm, whether it be bug fixes, new
 > features, or improvement suggestions.
