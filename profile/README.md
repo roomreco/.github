@@ -14,13 +14,13 @@ their interest in each other.
 
 ## Team
 
-| Name                                                               | Role                        | Responsibilities |
-| ------------------------------------------------------------------ | --------------------------- | ---------------- |
-| [Egor Machnev](https://github.com/machnevegor)                     | _Team Leader_, Backend dev. | Bot, API         |
-| [Andrey Alexeev](https://github.com/Azaki-san)                     | Backend dev.                | API              |
-| [Nikolai Kuzmin](https://github.com/orgs/randorm/people/Nikoali01) | Backend dev.                | API              |
-| [Alyona Maksimova](https://github.com/maksalena)                   | Frontend dev.               | Web              |
-| [Georgii Butakov](https://github.com/MazZz3R)                      | _DevOps_                    | Web, Bot, API    |
+| Name                                                               | Role                      | Responsibilities                 |
+| ------------------------------------------------------------------ | ------------------------- | -------------------------------- |
+| [Egor Machnev](https://github.com/machnevegor)                     | Team Leader, Backend dev. | Server Architecture, GraphQL API |
+| [Andrey Alexeev](https://github.com/Azaki-san)                     | Backend dev.              | Algorithms, Telegram Bot         |
+| [Nikolai Kuzmin](https://github.com/orgs/randorm/people/Nikoali01) | Backend dev.              | Algorithms, Telegram Bot         |
+| [Alyona Maksimova](https://github.com/maksalena)                   | Frontend dev.             | Web                              |
+| [Georgii Butakov](https://github.com/MazZz3R)                      | DevOps                    | Deployment                       |
 
 ## Repositories
 
