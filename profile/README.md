@@ -18,7 +18,7 @@ their interest in each other.
 | ------------------------------------------------------------------ | ------------------------- | -------------------------------- |
 | [Egor Machnev](https://github.com/machnevegor)                     | Team Leader, Backend dev. | Server Architecture, GraphQL API |
 | [Andrey Alexeev](https://github.com/Azaki-san)                     | Backend dev.              | Algorithms, Telegram Bot         |
-| [Nikolai Kuzmin](https://github.com/orgs/randorm/people/Nikoali01) | Backend dev.              | Algorithms, Telegram Bot         |
+| [Nikolai Kuzmin](https://github.com/Nikoali01) | Backend dev.              | Algorithms, Telegram Bot         |
 | [Alyona Maksimova](https://github.com/maksalena)                   | Frontend dev.             | Web                              |
 | [Georgii Butakov](https://github.com/MazZz3R)                      | DevOps                    | Deployment                       |
 
